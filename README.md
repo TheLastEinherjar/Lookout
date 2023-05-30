@@ -1,5 +1,5 @@
 # Lookout
-Python Lookout is a Python class that allows you to fetch emails from an IMAP server and extract their contents. It is useful for automation.
+Python Lookout is a Python class that allows you to fetch outlook.com emails from an IMAP server and extract their contents. It is useful for automation.
 
 ## Contributors
 
